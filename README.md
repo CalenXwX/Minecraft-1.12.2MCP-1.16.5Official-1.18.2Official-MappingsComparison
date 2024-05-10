@@ -1,0 +1,1 @@
+# Minecraft-1.12.2MCP-1.18.2Official-MappingsComparisonTable
