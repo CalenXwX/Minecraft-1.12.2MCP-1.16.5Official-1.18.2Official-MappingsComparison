@@ -1,6 +1,6 @@
-# Minecraft-1.12.2MCP-1.18.2Official-MappingsComparisonTable
+# Minecraft MappingsComparison
 
-To help mods magrate from 1.12.2 Forge to 1.18.2 Forge.
+To help mods magrate from 1.12.2 Forge to 1.18.2 Forge / 1.16.5 Forge.
 
 I collected the mappings when magrating the code.
 Most are correct, but seems not all.
